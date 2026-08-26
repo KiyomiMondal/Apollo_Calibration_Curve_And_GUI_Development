@@ -1,0 +1,1 @@
+Radiochromic film dosimetry is widely used for radiotherapy quality assurance, but converting scanned film responses into accurate radiation dose measurements requires calibration and extensive manual analysis. An efficient and automated solution was needed to improve accuracy, reduce processing time, and simplify dose estimation.
